@@ -7,7 +7,7 @@ This project uses an Arduino Uno Wifi Rev2 to receive network time and use it to
 
   22 AWG Magnet wire (about 14m)
 
-  1k \omega resistor
+  1kΩ resistor
 
   10nF polypropylene film capacator
 
