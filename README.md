@@ -2,6 +2,7 @@
 This project uses an Arduino Uno Wifi Rev2 to receive network time and use it to generate a DCF77-style signal for setting a radio-controlled clock.
 
 * Bill of Materials *
+
   Arduino Uno Wifi Rev2
 
   22 AWG Magnet wire (about 14m)
